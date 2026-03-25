@@ -1,5 +1,5 @@
 
-# SINDyFinance_v8 - Portfolio Optimization Results Summary
+# SINDyFinance - Portfolio Optimization Results Summary
 
 Data period: 2005-01-04 to 2026-03-23 (5337 days across universes)
 
@@ -39,7 +39,4 @@ Bootstrap: vs Mom dSharpe=+0.260 p=0.106
 **2019 (6k days):** vs Mom +0.115 p=0.162 | vs RP +0.148 p=0.033**
 
 ## FINAL VERDICT
-**RESOLVED**: Pooled 2015 split confirms SINDy CVaR beats Momentum MVO (p=0.015). Extended GFC/COVID data provides statistical power. Consistent edge in equities/multi-asset; mixed in FI/macro.
-
----
-*Generated from SINDyFinance_v8.ipynb output. SINDy: regime-aware CVaR with stress covariance adjustments.*
+Pooled 2015 split confirms SINDy CVaR beats Momentum MVO (p=0.015). Extended GFC/COVID data provides statistical power. Consistent edge in equities/multi-asset; mixed in FI/macro.
